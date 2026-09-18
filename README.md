@@ -1,6 +1,8 @@
 # G.A.I.A. — Global Agroecology Intelligent Assistant
 > **Darukaa.Earth AI Environmentalist Chatbot Submission**
 
+> Live App Demo: https://gaia-chatbot.streamlit.app/
+
 G.A.I.A. is an AI-powered Nature Intelligence Agent designed to evaluate ecosystem health, diagnose soil/land degradation, and generate evidence-backed, multi-variable restoration plans.
 
 ---
