@@ -50,5 +50,5 @@ Every generated recommendation delivers:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/gaia-bot.git](https://github.com/YOUR_GITHUB_USERNAME/gaia-bot.git)
+   git clone [https://github.com/TauheedKazi/G.A.I.A.-Chatbot.git](https://github.com/TauheedKazi/G.A.I.A.-Chatbot.git)
    cd gaia-bot
