@@ -414,6 +414,12 @@ custom_css = f"""
     fill: #ffffff !important;
 }}
 
+/* Black text for mobile versions */
+[data-testid="stChatInput"] input {{
+    color: #263238 !important;
+    -webkit-text-fill-color: #263238 !important; /* Overrides mobile default white text */
+}}
+
 /* ===== COLLAPSED "REOPEN" BUTTON ===== */
 .st-key-gaia_reopen button {{
     position: fixed !important;
